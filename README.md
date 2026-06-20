@@ -139,11 +139,9 @@ predictions = predictor.predict(new_data)
 
 ## 👤 Autor
 
-**César Adrián Delgado Díaz**
-
-- 🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- 🐙 GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)
+- 👤 Autor : **César Adrián Delgado Díaz**
+- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](linkedin.com/in/cesar-delgado-diaz)
+- 🐙 GitHub: [github.com/tu-usuario](https://github.com/cesar530)
 
 ## 📄 Licencia
 
